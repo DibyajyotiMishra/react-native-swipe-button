@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DibyajyotiMishra/react-native-swipe-button.git"
+    "url": "git+https+://https://github.com/UdaySravanK/RNSwipeButton.git"
   },
   "keywords": [
     "react-native-swipe-button",
@@ -31,6 +31,7 @@
     "swipe-left-to-right",
     "slide"
   ],
+  "rn-swipe-button": "git+https://https://github.com/DibyajyotiMishra/react-native-swipe-button.git",
   "author": "Uday Sravan Kumar Kamineni",
   "license": "MIT",
   "bugs": {
